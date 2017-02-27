@@ -29,6 +29,8 @@ import com.android.internal.telephony.TelephonyIntents;
 import com.cyanogenmod.setupwizard.R;
 import com.cyanogenmod.setupwizard.util.SetupWizardUtils;
 
+import org.cyanogenmod.internal.util.PackageManagerUtils;
+
 import java.util.ArrayList;
 
 public class CMSetupWizardData extends AbstractSetupData {
